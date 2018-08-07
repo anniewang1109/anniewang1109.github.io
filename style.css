@@ -1,8 +1,16 @@
- h1{
-      text-align: center;
-      padding-top: 20px;
-      padding-bottom: 20px;
-      font-size: 80px;
+body{
+     background-color: #f08080;
+     text-align: center;
+     color: white;
+     font-family: sans-serif;
+} 
+
+h1{
+ background-color: rgba(255, 255, 255, .3);
+ text-align: center;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ font-size: 80px;
  }
       
 p{
@@ -10,11 +18,7 @@ p{
   padding: 4px;
 }
     
-body{
-     background-color: #f08080;
-     text-align: center;
-     color: white;
-}
+
     
 img{
     margin-left: auto;
