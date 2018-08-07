@@ -30,7 +30,10 @@ h1{
     margin-bottom:10px;
 }
 
-
+#navigation_bar{
+    display: flex;
+    justify-content:space-around;
+}
       
 p{
   font-size: 20px;
